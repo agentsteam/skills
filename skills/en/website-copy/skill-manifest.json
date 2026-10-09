@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "language": "en",
+  "slug": "website-copy",
+  "title": "Website copy",
+  "description": "Turn an approved offer into website structure and copy: headings, service scope, answers to questions and a clear next step.",
+  "version": "0.1.0",
+  "category": "marketing",
+  "input": "Approved offer or service facts, website audience and the customer's real next step.",
+  "output": "Draft website copy, a separate list of missing facts and points for owner review.",
+  "dependencies": [],
+  "status": "approved",
+  "approval": {
+    "reviewer": "Owner",
+    "date": "2026-09-25",
+    "version": "0.1.0"
+  },
+  "provenance": [
+    {
+      "repository": "https://github.com/coreyhaines31/marketingskills",
+      "path": "skills/copywriting/SKILL.md",
+      "revision": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "license": "MIT",
+      "noticeFile": "LICENSE.txt",
+      "adaptedOn": "2026-09-16"
+    }
+  ],
+  "environments": [
+    {
+      "name": "Codex CLI",
+      "version": "0.145.0",
+      "date": "2026-09-23",
+      "task": "Fictional bicycle workshop website copy",
+      "limitations": "12 fictional runs per package: 3 business models × 4 cases. No model override was supplied; the CLI did not expose its model ID. Runs used an isolated, read-only workspace. Every run confirmed reading the complete SKILL.md, and responses were manually assessed against case criteria. Only Codex CLI was verified; other environments remain unverified. This evidence describes the original Polish package; the English translation has not been separately verified."
+    }
+  ],
+  "changelog": [
+    {
+      "version": "0.1.0",
+      "date": "2026-09-16",
+      "summary": "Approved for the public catalogue. English translation of the same package; original approval metadata retained."
+    }
+  ]
+}

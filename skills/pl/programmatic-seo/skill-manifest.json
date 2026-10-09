@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "language": "pl",
+  "slug": "programmatic-seo",
+  "title": "Strony SEO z szablonu",
+  "description": "Oceń, czy powtarzalne strony usług mają sens, i zaplanuj szablon z prawdziwą wartością na każdej stronie.",
+  "version": "0.1.0",
+  "category": "marketing",
+  "input": "Potwierdzone warianty usług, dane różniące strony, pytania klientów i możliwości utrzymania treści.",
+  "output": "Decyzja budować lub nie budować, wzór jednej strony, wymagane dane i kontrola jakości przed publikacją.",
+  "dependencies": [],
+  "status": "approved",
+  "approval": {
+    "reviewer": "Owner",
+    "date": "2026-09-25",
+    "version": "0.1.0"
+  },
+  "provenance": [
+    {
+      "repository": "https://github.com/coreyhaines31/marketingskills",
+      "path": "skills/programmatic-seo/SKILL.md",
+      "revision": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "license": "MIT",
+      "noticeFile": "LICENSE.txt",
+      "adaptedOn": "2026-09-22"
+    }
+  ],
+  "environments": [
+    {
+      "name": "Codex CLI",
+      "version": "0.145.0",
+      "date": "2026-09-23",
+      "task": "Fikcyjna decyzja o stronach SEO studia projektowego",
+      "limitations": "12 fikcyjnych przebiegów na pakiet: 3 modele działalności × 4 przypadki. Nie podano nadpisania modelu; CLI nie udostępnił jego ID. Przebiegi odbyły się w izolowanym, read-only workspace. We wszystkich potwierdzono odczyt pełnego SKILL.md, a odpowiedzi ręcznie oceniono według kryteriów przypadków. Zweryfikowano wyłącznie Codex CLI; inne środowiska pozostają niezweryfikowane."
+    }
+  ],
+  "changelog": [
+    {
+      "version": "0.1.0",
+      "date": "2026-09-22",
+      "summary": "Zatwierdzony do publicznego katalogu."
+    }
+  ]
+}

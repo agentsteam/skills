@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "language": "pl",
+  "slug": "marketing-psychology",
+  "title": "Psychologia marketingu",
+  "description": "Zrozum obawy klientów i popraw przekaz bez sztucznej presji, fałszywych dowodów ani obietnic.",
+  "version": "0.1.0",
+  "category": "marketing",
+  "input": "Zatwierdzony opis usługi, pytania lub obawy klientów, obecny przekaz i rzeczywiste dowody.",
+  "output": "Wyjaśnienie decyzji klienta, propozycje uczciwych zmian przekazu i pytania do weryfikacji.",
+  "dependencies": [],
+  "status": "approved",
+  "approval": {
+    "reviewer": "Owner",
+    "date": "2026-09-25",
+    "version": "0.1.0"
+  },
+  "provenance": [
+    {
+      "repository": "https://github.com/coreyhaines31/marketingskills",
+      "path": "skills/marketing-psychology/SKILL.md",
+      "revision": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "license": "MIT",
+      "noticeFile": "LICENSE.txt",
+      "adaptedOn": "2026-09-22"
+    }
+  ],
+  "environments": [
+    {
+      "name": "Codex CLI",
+      "version": "0.145.0",
+      "date": "2026-09-23",
+      "task": "Fikcyjny przekaz studia projektowego",
+      "limitations": "12 fikcyjnych przebiegów na pakiet: 3 modele działalności × 4 przypadki. Nie podano nadpisania modelu; CLI nie udostępnił jego ID. Przebiegi odbyły się w izolowanym, read-only workspace. We wszystkich potwierdzono odczyt pełnego SKILL.md, a odpowiedzi ręcznie oceniono według kryteriów przypadków. Zweryfikowano wyłącznie Codex CLI; inne środowiska pozostają niezweryfikowane."
+    }
+  ],
+  "changelog": [
+    {
+      "version": "0.1.0",
+      "date": "2026-09-22",
+      "summary": "Zatwierdzony do publicznego katalogu."
+    }
+  ]
+}
