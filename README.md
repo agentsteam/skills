@@ -25,6 +25,7 @@ Use without installing: replace `add` with `use` in either command.
 - [Marketing psychology (en)](skills/en/marketing-psychology/SKILL.md) — `marketing-psychology`
 - [Ad creative (en)](skills/en/ad-creative/SKILL.md) — `ad-creative`
 - [B2B message (en)](skills/en/cold-email/SKILL.md) — `cold-email`
+- [Product videos (en)](skills/en/product-video/SKILL.md) — `product-video`
 - [Pomysły marketingowe (pl)](skills/pl/marketing-ideas/SKILL.md) — `marketing-ideas`
 - [Strategia treści (pl)](skills/pl/content-strategy/SKILL.md) — `content-strategy`
 - [Treści strony (pl)](skills/pl/website-copy/SKILL.md) — `website-copy`
