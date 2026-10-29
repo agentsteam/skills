@@ -18,4 +18,4 @@ Each package contains SKILL.md, skill-manifest.json, LICENSE.txt and its support
 
 The ordered website catalogue and page copy live in catalogue/en.json and catalogue/pl.json. The English product-video package remains available here but is intentionally absent from the website catalogue. catalogue/source-inventory.json records the upstream runtime file inventory for the ten bilingual skills.
 
-The website imports a validated snapshot from an explicit Git commit through vp run skills:sync -- --revision <SHA> in agentsteam/hyperapp-build. Update packages here first; builds and web requests use that pinned snapshot without contacting GitHub.
+The website imports the latest packages from main through vp run skills:sync in agentsteam/hyperapp-build. Update packages here first, then run the sync command. Builds and web requests use the validated local snapshot without contacting GitHub. Usage prompts and optional installation commands always fetch the latest packages from main.
