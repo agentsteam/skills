@@ -239,7 +239,7 @@ Pełna lista sprawdzonych podejść marketingowych uporządkowana według katego
 
 92. **Polecania do newslettera** - Wbudowane programy polecania do newsletterów.
 
-93. **Wirusowe pętle** – Mechanika produktu, która w naturalny sposób zachęca do dzielenia się.
+93. **Viralowe pętle** – Mechanika produktu, która w naturalny sposób zachęca do dzielenia się.
 
 94. **Przepływy rezygnacji** – Optymalizuj przepływy anulowania, aby zatrzymać klientów lub poznać przyczyny odejścia.
 
@@ -282,7 +282,7 @@ Pełna lista sprawdzonych podejść marketingowych uporządkowana według katego
 
 110. **Nagrody jako marketing** - Twórz nagrody branżowe pozycjonujące Twoją markę jako wyznaczającą trendy.
 
-111. **Wyzwania jako marketing** – Uruchamiaj wirusowe wyzwania, które rozprzestrzeniają się organicznie.
+111. **Wyzwania jako marketing** – Uruchamiaj viralowe wyzwania, które rozprzestrzeniają się organicznie.
 
 112. **Reality TV Marketing** – Twórz treści w stylu reality show, podążając za prawdziwymi klientami.
 

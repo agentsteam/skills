@@ -36,7 +36,7 @@ Zapytany o pomysły marketingowe:
 | Wydarzenia | 65-72 | Webinaria, wystąpienia konferencyjne, konferencje online |
 | PR i media | 73-76 | Doniesienia prasowe, filmy dokumentalne |
 | Premiery | 77-86 | Product Hunt, oferty dożywotnie, prezenty |
-| Rozwój oparty na produkcie | 87-96 | Pętle wirusowe, Oznaczenia „Powered by”, Darmowe migracje |
+| Rozwój oparty na produkcie | 87-96 | Pętle viralowe, Oznaczenia „Powered by”, Darmowe migracje |
 | Formaty treści | 97-109 | Podcasty, kursy, raporty roczne, podsumowania roku |
 | Niekonwencjonalne | 110-122 | Nagrody, wyzwania, [marketing partyzancki](references/guerrilla-marketing.md) |
 | Platformy | 123-130 | Rynki aplikacji, witryny z recenzjami, YouTube |
@@ -128,7 +128,7 @@ Zapytany o pomysły marketingowe:
 - Marketing przez komentarze (#44)
 
 ### Rozwój oparty na produktach
-- Pętle wirusowe (#93)
+- Pętle viralowe (#93)
 - Oznaczenia „Powered by” jako marketing (nr 87)
 - Sprzedaż dodatkowa w aplikacji (nr 91)
 
@@ -166,4 +166,4 @@ Polecając pomysły, dla każdego z nich podaj:
 - **competitors**: Dla stron porównawczych (#11)
 - **emails**: Do taktyk marketingu e-mailowego
 - **free-tools**: Dla inżynierii jako marketingu (#15)
-- **referrals**: Dla wzrostu wirusowego (#93)
+- **referrals**: Dla wzrostu viralowego (#93)

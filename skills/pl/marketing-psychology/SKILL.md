@@ -405,7 +405,7 @@ Próg, po przekroczeniu którego wzrost staje się samowystarczalny.
 ### Błąd przeżywalności
 Koncentrowanie się na sukcesach i ignorowanie niepowodzeń, które nie są widoczne.
 
-**Zastosowanie marketingowe**: Przeanalizuj nieudane kampanie, a nie tylko te udane. Hit wirusowy, który kopiujesz, miał 99 niepowodzeń, których nie zauważyłeś.
+**Zastosowanie marketingowe**: Przeanalizuj nieudane kampanie, a nie tylko te udane. Hit viralowy, który kopiujesz, miał 99 niepowodzeń, których nie zauważyłeś.
 
 ---
 
