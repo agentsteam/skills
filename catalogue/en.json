@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "marketing-ideas",
+    "brief": "Use marketing-ideas for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "A fictional workshop in Łódź often answers questions about diagnosis. Advertising budget is unknown.",
+        "output": "Initial test: a short answer to 'what happens before pricing' on its own website. Defer advertising until budget is established."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio receives incomplete enquiries and has time for one piece of content each month.",
+        "output": "Initial test: an example project brief, followed by observing the quality of subsequent enquiries. Do not plan a weekly series without team capacity."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "A fictional business serves offices; customers ask how visit frequency is agreed.",
+        "output": "Initial test: explain the office assessment and cooperation options. Do not promise a fixed plan or discount without confirmation."
+      }
+    ]
+  },
+  {
+    "slug": "content-strategy",
+    "brief": "Use content-strategy for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "Customers of a fictional workshop ask about diagnosis and consent to buy parts. Author time is unknown.",
+        "output": "Priority 1: What should I prepare before diagnosis? Priority 2: How do we agree the cost of parts? Source: approved workshop rules. Order without dates; ask about preparation and review time. No claims about search traffic."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio receives incomplete briefs. It has no approved results for a case study.",
+        "output": "First material: an example brief explaining each question's purpose. Goal: make scope easier to establish. Next step: prepare your own brief. The case study waits for data and consent; project results are not invented."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "Customers of a fictional business ask about visit frequency. It depends on individual agreement.",
+        "output": "FAQ brief: what determines care frequency? The answer uses the approved needs-assessment process. Suggest reusing the FAQ in the service description. Publication dates and channels require confirmation of team capacity."
+      }
+    ]
+  },
+  {
+    "slug": "website-copy",
+    "brief": "Use website-copy for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "A fictional workshop diagnoses before pricing. The owner agrees appointment times. Price is unknown.",
+        "output": "Heading: Bicycle repair after checking the problem. Copy: Describe the symptoms; after diagnosis, we agree scope and timing. Button: Send an enquiry. Note: price needs confirmation; no invented price list."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio agrees website scope in a brief. The customer supplies text and photos. Budget and timing are unspecified.",
+        "output": "Sections: Project scope; What you prepare; How we agree the quote. Button: Prepare a brief. Copy explains scope agreement; it promises neither a completion date nor sales growth."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "A fictional business agrees care frequency individually for each office.",
+        "output": "Heading: Plant care tailored to your office. Button: Describe your office's needs. Frequency: to be agreed. Note: price and visit count need a decision; do not assume a weekly package."
+      }
+    ]
+  },
+  {
+    "slug": "copy-editing",
+    "brief": "Use copy-editing for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "Fictional draft: 'Book a repair immediately'. In reality, the workshop diagnoses first and confirms availability.",
+        "output": "Change: 'Describe your bicycle's problem'. The next step is an enquiry; timing and cost need confirmation."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "Fictional copy: 'Your website ready in a week'. Scope and timing are agreed only after a brief.",
+        "output": "Remove the one-week promise. Explain that the brief establishes scope and schedule."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "Fictional copy promises weekly visits even though frequency is individually agreed.",
+        "output": "Replace the promise with a description of office needs assessment; frequency remains to be agreed."
+      }
+    ]
+  },
+  {
+    "slug": "seo-audit",
+    "brief": "Use seo-audit for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "A fictional workshop in Łódź describes diagnosis before pricing. No website URL or Search Console data was supplied.",
+        "output": "No basis for assessing indexing or rankings. First request the URL and available reports; service copy should explain diagnosis and appointment enquiries."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio supplies website copy that does not explain how scope is agreed. No traffic data exists.",
+        "output": "Confirmed gap in supplied copy: no explanation of the brief. Proposal: add the scope-agreement process; impact on traffic remains a hypothesis."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "A fictional business serves offices and agrees frequency individually. Only a website draft was supplied.",
+        "output": "Check whether the draft explains office needs assessment. Do not create city or frequency pages without confirmed data."
+      }
+    ]
+  },
+  {
+    "slug": "ai-seo",
+    "brief": "Use ai-seo for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "A fictional workshop describes diagnosis before pricing. No AI search results were supplied.",
+        "output": "Visibility: unchecked. Copy can clearly explain how to report a problem and when the owner confirms availability; there is no basis for promising citations."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio has a draft FAQ about briefs. No dated AI answers or confirmed projects exist.",
+        "output": "Clarify information required for the brief. Do not add a case study or claim presence in AI results."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "A fictional business describes individually agreed frequency; it has no traffic data.",
+        "output": "Answer the question about office needs assessment. Plan visibility measurement separately; frequency and price remain unknown."
+      }
+    ]
+  },
+  {
+    "slug": "programmatic-seo",
+    "brief": "Use programmatic-seo for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "A fictional workshop in Łódź wants 40 'bicycle repair + city' pages although it serves only Łódź.",
+        "output": "Do not build city pages. One page describing real diagnosis in Łódź is more honest and easier to maintain."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio considers pages for project types; it has process descriptions but no distinct examples.",
+        "output": "First check whether project types need different information and examples. Without them, do not multiply pages with identical copy."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "A fictional business has different office plant-care methods but an unapproved list of service scopes.",
+        "output": "Pause the template until scopes are approved. Show one model page with empty frequency and price fields."
+      }
+    ]
+  },
+  {
+    "slug": "marketing-psychology",
+    "brief": "Use marketing-psychology for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "A fictional workshop diagnoses before pricing; customers ask whether submitting a form books an appointment.",
+        "output": "Uncertainty concerns the next step. Explain that the form is an enquiry and timing and cost require confirmation; do not use 'last places available'."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio establishes scope through a brief; no customer reviews or delivery-time data exist.",
+        "output": "Show the briefing and scope-agreement stages. Do not add reviews or delivery dates without a source."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "A fictional business agrees frequency after office assessment; customers ask whether the plan can change.",
+        "output": "Explain needs assessment. Leave plan-change rules as an owner question rather than promising flexibility."
+      }
+    ]
+  },
+  {
+    "slug": "ad-creative",
+    "brief": "Use ad-creative for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "A fictional workshop in Łódź diagnoses before pricing. Advertising channel and budget are unspecified.",
+        "output": "Draft angle: 'explain the problem before visiting'; an enquiry is not a booking. Channel and budget are needed before adapting the format."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio collects a brief before pricing. No confirmed projects or discount exist.",
+        "output": "The variant shows what to prepare for a brief. No case study, delivery promise or promotion."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "A fictional business establishes scope and frequency after office assessment.",
+        "output": "The variant invites a description of the office; the image brief shows the real service without claiming a guaranteed outcome."
+      }
+    ]
+  },
+  {
+    "slug": "cold-email",
+    "brief": "Use cold-email for my task. Read SKILL.md and the supporting files relevant to the task. Respond in English.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Bicycle workshop",
+        "input": "A fictional workshop considers servicing company bicycles but has no approved B2B offer or identified recipient.",
+        "output": "Pause the message. First confirm offer, scope and reason for contact; do not invent fleet partnerships."
+      },
+      {
+        "model": "project",
+        "title": "Design studio",
+        "input": "A fictional studio has an approved business-website offer but no facts about a specific recipient business.",
+        "output": "Prepare a neutral draft without 'I noticed a problem on your website'. Ask for a confirmed reason for individual contact."
+      },
+      {
+        "model": "recurring",
+        "title": "Plant care",
+        "input": "A fictional business serves offices; frequency and price are agreed after needs assessment.",
+        "output": "The draft asks whether the recipient wants to discuss office needs. It gives no price, visit plan or invented familiarity with the business."
+      }
+    ]
+  }
+]

@@ -1,0 +1,289 @@
+{
+  "revision": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+  "packages": {
+    "ad-creative": [
+      {
+        "path": "SKILL.md",
+        "sha": "322c3361edc03662a787709888287f0e943dc947"
+      },
+      {
+        "path": "assets/creative-review-template.html",
+        "sha": "a27497739e298975942ebb3cb20da9205152cc5d"
+      },
+      {
+        "path": "references/awareness-headlines.md",
+        "sha": "5a804c029c40efb59238492e986363da44f124f0"
+      },
+      {
+        "path": "references/creative-review-page.md",
+        "sha": "5b604fc7c91c9e6cff56f8c2e0e04ab00ad86770"
+      },
+      {
+        "path": "references/creative-roadmap.md",
+        "sha": "f5d0322e642f77210d4b7be991682248580b9572"
+      },
+      {
+        "path": "references/generative-tools.md",
+        "sha": "5f09844e93bd8d5207c7647c7cd2dea553f17499"
+      },
+      {
+        "path": "references/hook-system.md",
+        "sha": "d1f01ae99cfc814d7f94ba82ecb0bb08047008fd"
+      },
+      {
+        "path": "references/imessage-video-ads.md",
+        "sha": "866b38942eabfcf6e6d64647b71ae1475a658c79"
+      },
+      {
+        "path": "references/meta-creative-formats.md",
+        "sha": "8808ea60d05569e5389f62121accaf8e3cc20e57"
+      },
+      {
+        "path": "references/motion-video-ads.md",
+        "sha": "fab0ef4d47da0d02b9b54a35a355c1d08c2dde87"
+      },
+      {
+        "path": "references/platform-specs.md",
+        "sha": "c9a3c4a53465b5b182ded365a47d3103443da6d3"
+      },
+      {
+        "path": "references/short-form-video-specs.md",
+        "sha": "5bde8b97a72b14148d34077694792751c672f890"
+      },
+      {
+        "path": "references/static-ad-templates.md",
+        "sha": "271b342b7d1260bdb4577d138154fb7a8c377ef6"
+      }
+    ],
+    "ai-seo": [
+      {
+        "path": "SKILL.md",
+        "sha": "55957d7bc4caea56cd408c9c5cbf5f10d0186381"
+      },
+      {
+        "path": "references/agent-defaults.md",
+        "sha": "c2c3294a2d7ecc1f4b4d97bdc78c8d40ac9bd25e"
+      },
+      {
+        "path": "references/agent-readiness.md",
+        "sha": "d2a4caffdf5400aa4e60afbd3f9e47fce7c96901"
+      },
+      {
+        "path": "references/ai-attribution.md",
+        "sha": "bb66efa357638f9daf8841e7347202fea322ea38"
+      },
+      {
+        "path": "references/answer-accuracy.md",
+        "sha": "2db36301fdf802eaad59e31bcaf400088cbab1c9"
+      },
+      {
+        "path": "references/citations-vs-recommendations.md",
+        "sha": "3bb23b55c68e565849c2e7cd4c0ffa4a8b571c2b"
+      },
+      {
+        "path": "references/content-patterns.md",
+        "sha": "c6666a27cd3ff5a9f406a4dd2df276f249bb26e0"
+      },
+      {
+        "path": "references/content-types.md",
+        "sha": "114f58e3cfad8643764c0d86b0122316b2ca3d91"
+      },
+      {
+        "path": "references/format-volatility.md",
+        "sha": "389428e4391a5265ceb63cde9ba59e63e91778bd"
+      },
+      {
+        "path": "references/linkedin-ai-citations.md",
+        "sha": "b4309ac54ebb364a9738ced971385aaf2147d145"
+      },
+      {
+        "path": "references/multilingual-and-commerce.md",
+        "sha": "d82a7ce5422bafd24b7073aa006e7239d8f2f974"
+      },
+      {
+        "path": "references/okf.md",
+        "sha": "e99bc7ca1b1417fd0643c9e772b75b227a9af1da"
+      },
+      {
+        "path": "references/platform-ranking-factors.md",
+        "sha": "14a1c20b457887f63125dff30594a7e486356f3b"
+      },
+      {
+        "path": "references/positioning-and-consensus.md",
+        "sha": "cb8916e78f5fd664dae3c097effff0f60b82ef74"
+      },
+      {
+        "path": "references/prompt-portfolio.md",
+        "sha": "86af24091a3eabf504b32f2addedf3f7ab6cef7c"
+      },
+      {
+        "path": "references/youtube-ai-citations.md",
+        "sha": "d8c526ff1426cdbe307f5deb43e138c65ccbc748"
+      }
+    ],
+    "cold-email": [
+      {
+        "path": "SKILL.md",
+        "sha": "6d7f20f083ba98f7bd92ec1c5a91576b82795a05"
+      },
+      {
+        "path": "references/benchmarks.md",
+        "sha": "21219368de7be4d7491fa6682e15dec3e514c530"
+      },
+      {
+        "path": "references/deliverability.md",
+        "sha": "d3aa229d07a107ff5dadbf3f630d7dda8dbd1f51"
+      },
+      {
+        "path": "references/follow-up-sequences.md",
+        "sha": "46b5db336f6d473dbb805e807d50868e83ec5e06"
+      },
+      {
+        "path": "references/frameworks.md",
+        "sha": "ca16592dc3a71d4549fce4efde685ef04e836de1"
+      },
+      {
+        "path": "references/linkedin-outreach.md",
+        "sha": "e084dae8a50654132d355e3b6c7e918cee0f21fe"
+      },
+      {
+        "path": "references/multichannel-cadence.md",
+        "sha": "390f93191eb18a5ba5caea78eab9aa80a86acfd8"
+      },
+      {
+        "path": "references/outbound-plays.md",
+        "sha": "362a7a0c41b365725e6a69a7266f12b799861927"
+      },
+      {
+        "path": "references/personalization.md",
+        "sha": "37c65d39ebfefead03c0c9b0aa06bee86eafe6ee"
+      },
+      {
+        "path": "references/reply-handling.md",
+        "sha": "ccbbe415ff9a7583694184b42408a9411bcbe86b"
+      },
+      {
+        "path": "references/subject-lines.md",
+        "sha": "3a2cc592d32e00b1bd368446979539853be87066"
+      }
+    ],
+    "content-strategy": [
+      {
+        "path": "SKILL.md",
+        "sha": "772846f604505ccd8ad571cded9aa4391cdada65"
+      },
+      {
+        "path": "references/content-distribution.md",
+        "sha": "6f4a3c38a15e9949727ebcf621f0054710a02a83"
+      },
+      {
+        "path": "references/headless-cms.md",
+        "sha": "fa01433bf3b29a33fef40c3a580a6087495d3fcc"
+      }
+    ],
+    "copy-editing": [
+      {
+        "path": "SKILL.md",
+        "sha": "e5fdc0e70e0a2b3d17c1f7761b00b6c51e1e0ac0"
+      },
+      {
+        "path": "references/checklist.md",
+        "sha": "1f33b2100a1d49db4858987e4b6bcbbd783d5b79"
+      },
+      {
+        "path": "references/content-refresh.md",
+        "sha": "5def44f806c36e66b1d69400c33ec63a4e0d024d"
+      },
+      {
+        "path": "references/plain-english-alternatives.md",
+        "sha": "2fc323557dabdee6ee9f0a52e2a4c24f473fc775"
+      }
+    ],
+    "website-copy": [
+      {
+        "path": "SKILL.md",
+        "sha": "e70bd2e1f4e96cb94ef69b3899150950b0128be5"
+      },
+      {
+        "path": "references/ai-tells.md",
+        "sha": "0a93ab3b88fc2c683ff6280db187644a7aa04612"
+      },
+      {
+        "path": "references/copy-frameworks.md",
+        "sha": "194aefed131c4e2e508b76ae9fdfc9cdcd37a6ba"
+      },
+      {
+        "path": "references/natural-transitions.md",
+        "sha": "5fba31a5d3bf0f35a9cc62605af5ceaa454a6186"
+      }
+    ],
+    "marketing-ideas": [
+      {
+        "path": "SKILL.md",
+        "sha": "c5d681932b8e329236fa9e06fa85d6f5dc632c8d"
+      },
+      {
+        "path": "references/guerrilla-marketing.md",
+        "sha": "3a47883e8f7a55c1542762e4c4429e44053ee058"
+      },
+      {
+        "path": "references/ideas-by-category.md",
+        "sha": "ab57dccde498eda91eb7999cebbebc6f5d2449a6"
+      }
+    ],
+    "marketing-psychology": [
+      {
+        "path": "SKILL.md",
+        "sha": "806c09fba8228e53b9d2443cea7e2bbb104e6ee9"
+      }
+    ],
+    "programmatic-seo": [
+      {
+        "path": "SKILL.md",
+        "sha": "a7ab6bf74c5a3c5f43c02a607df127b3221c4e2c"
+      },
+      {
+        "path": "references/implementation-platforms.md",
+        "sha": "5a53d73a8c0d535d2add11e08520086ac031155a"
+      },
+      {
+        "path": "references/playbooks.md",
+        "sha": "227f6759de62ec4de4dd1bf7e16e4e915d211ca6"
+      }
+    ],
+    "seo-audit": [
+      {
+        "path": "SKILL.md",
+        "sha": "e0a41d8c46c06d1e33ce5295c0f303a94d8f6c5b"
+      },
+      {
+        "path": "references/ai-writing-detection.md",
+        "sha": "cb67ece4135f4153575bbbdfbf722364babff61d"
+      },
+      {
+        "path": "references/international-seo.md",
+        "sha": "35a7ad2aeadcbef2541563b0077d5f717e4b147d"
+      },
+      {
+        "path": "references/local-seo-pages-and-measurement.md",
+        "sha": "d49f0443e091c70e4778a4e33030a33d18a361a4"
+      },
+      {
+        "path": "references/local-seo-profile-and-citations.md",
+        "sha": "d34b7e043cb7c4d2da114f04e986bd476a22d0c6"
+      },
+      {
+        "path": "references/local-seo.md",
+        "sha": "c2636ada98809d6ed8db588040817adc332add5e"
+      },
+      {
+        "path": "references/rankings-push.md",
+        "sha": "5e3930e47e521cf3d27db2e7120ffde8ace3035d"
+      },
+      {
+        "path": "references/title-tags.md",
+        "sha": "5d5eac8002179ac5288f3b4bbd2aa35b3a409a42"
+      }
+    ]
+  }
+}

@@ -2,6 +2,8 @@
 name: product-video
 description: Produce full product tutorials and single-feature shorts from real app recordings, with smooth zoom/cursor effects, ElevenLabs narration, and HyperFrames branding, intros, and outros.
 license: MIT
+metadata:
+  version: "1.0.0"
 ---
 
 # Product videos

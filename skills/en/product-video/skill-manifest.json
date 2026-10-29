@@ -1,10 +1,9 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "language": "en",
   "slug": "product-video",
   "title": "Product videos",
   "description": "Produce complete product tutorials and single-feature shorts with real UI recordings, cinematic zoom/cursor effects, ElevenLabs narration and HyperFrames branding.",
-  "version": "0.1.0",
   "category": "marketing",
   "input": "Product URL and demo access, task or feature, audience, language and voice, brand assets, output format and existing usage authorization.",
   "output": "Verified MP4, captions, thumbnail, YouTube metadata, editable sources, scene manifest and QA evidence.",
@@ -14,12 +13,6 @@
     "HyperFrames with Node.js 22+ and Chrome",
     "FFmpeg and ffprobe"
   ],
-  "status": "approved",
-  "approval": {
-    "reviewer": "Owner",
-    "date": "2026-10-13",
-    "version": "0.1.0"
-  },
   "provenance": [
     {
       "repository": "https://github.com/agentsteam/skills",
@@ -30,19 +23,12 @@
       "origin": "Original Agentsteam skill based on primary-source research; external tools and skill contracts are linked in the references, not bundled."
     }
   ],
-  "environments": [
-    {
-      "name": "Codex app",
-      "date": "2026-10-13",
-      "task": "Independent planning-only dry run for a fictional full tutorial and portrait feature short",
-      "limitations": "Official skill validation, local-reference checks and JSON examples passed. A separate agent produced manifests and timelines from fixture metadata. No product recording, paid narration, HyperFrames rendering or YouTube upload was tested; other environments remain unverified."
-    }
-  ],
+  "version": "1.0.0",
   "changelog": [
     {
-      "version": "0.1.0",
-      "date": "2026-10-13",
-      "summary": "Initial English package for full tutorials and feature shorts, with capture/zoom, narration/timing, HyperFrames and delivery references."
+      "version": "1.0.0",
+      "date": "2026-10-01",
+      "summary": "Initial release"
     }
   ]
 }

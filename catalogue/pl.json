@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "marketing-ideas",
+    "brief": "Zastosuj umiejętność marketing-ideas do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny warsztat w Łodzi odpowiada często na pytania o diagnozę. Budżet reklamowy nieznany.",
+        "output": "Pierwszy test: krótka odpowiedź na pytanie „co dzieje się przed wyceną” na własnej stronie. Reklamy odłożyć do ustalenia budżetu."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio otrzymuje niepełne zapytania; ma czas na jeden materiał w miesiącu.",
+        "output": "Pierwszy test: przykładowy brief projektu i obserwacja jakości kolejnych zapytań. Nie planować tygodniowej serii bez mocy zespołu."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjna firma obsługuje biura; klienci pytają o sposób uzgadniania częstotliwości.",
+        "output": "Pierwszy test: wyjaśnienie oceny biura i wariantów współpracy. Nie obiecywać stałego planu ani zniżki bez potwierdzenia."
+      }
+    ]
+  },
+  {
+    "slug": "content-strategy",
+    "brief": "Zastosuj umiejętność content-strategy do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Klienci fikcyjnego warsztatu pytają o diagnozę i zgodę na zakup części. Czas autora nieznany.",
+        "output": "Priorytet 1: Co przygotować przed diagnozą? Priorytet 2: Jak uzgadniamy koszt części? Źródło: zatwierdzone zasady warsztatu. Kolejność bez dat; pytanie o czas na przygotowanie i przegląd. Brak deklaracji ruchu z wyszukiwarki."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio otrzymuje niepełne briefy. Nie ma zatwierdzonych wyników do studium przypadku.",
+        "output": "Pierwszy materiał: przykład briefu z objaśnieniem celu każdego pytania. Cel: ułatwić ustalenie zakresu. Następny krok: przygotować własny brief. Studium przypadku czeka na dane i zgodę; wyniki projektu nie są wymyślane."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Klienci fikcyjnej firmy pytają o częstotliwość wizyt. Zależy ona od uzgodnienia.",
+        "output": "Brief FAQ: od czego zależy częstotliwość pielęgnacji? Odpowiedź opiera się na zatwierdzonym procesie oceny potrzeb. Zaproponuj ponowne użycie FAQ w opisie usługi. Daty i kanały publikacji wymagają potwierdzenia możliwości zespołu."
+      }
+    ]
+  },
+  {
+    "slug": "website-copy",
+    "brief": "Zastosuj umiejętność website-copy do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny warsztat diagnozuje przed wyceną. Właściciel ustala termin. Cena nieznana.",
+        "output": "Nagłówek: Naprawa roweru po sprawdzeniu problemu. Treść: Opisz objawy; po diagnozie uzgodnimy zakres i termin. Przycisk: Wyślij zapytanie. Notatka: cena wymaga potwierdzenia, bez wymyślonego cennika."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio ustala zakres strony w briefie. Klient dostarcza teksty i zdjęcia. Budżet i termin niepodane.",
+        "output": "Sekcje: Zakres projektu; Co przygotowujesz; Jak ustalamy wycenę. Przycisk: Przygotuj brief. Treść mówi o uzgodnieniu zakresu; nie obiecuje daty ukończenia ani wzrostu sprzedaży."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjna firma uzgadnia częstotliwość pielęgnacji osobno dla każdego biura.",
+        "output": "Nagłówek: Opieka nad roślinami dopasowana do Twojego biura. Przycisk: Opisz potrzeby biura. Częstotliwość: do uzgodnienia. Notatka: cena i liczba wizyt wymagają decyzji, bez założenia cotygodniowego pakietu."
+      }
+    ]
+  },
+  {
+    "slug": "copy-editing",
+    "brief": "Zastosuj umiejętność copy-editing do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny szkic: „Umów naprawę natychmiast”. W rzeczywistości warsztat najpierw diagnozuje i potwierdza termin.",
+        "output": "Zmiana: „Opisz problem z rowerem”. Następny krok to zapytanie; termin i koszt wymagają potwierdzenia."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjny tekst: „Strona gotowa w tydzień”. Zakres i termin ustala się dopiero po briefie.",
+        "output": "Usunąć tygodniową obietnicę. Wyjaśnić, że brief służy uzgodnieniu zakresu i harmonogramu."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjny tekst obiecuje wizyty co tydzień, choć częstotliwość ustalana jest indywidualnie.",
+        "output": "Zastąpić obietnicę opisem oceny potrzeb biura; częstotliwość zostaje do uzgodnienia."
+      }
+    ]
+  },
+  {
+    "slug": "seo-audit",
+    "brief": "Zastosuj umiejętność seo-audit do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny warsztat w Łodzi opisuje diagnozę przed wyceną. Nie dostarczono adresu strony ani danych Search Console.",
+        "output": "Brak podstaw do oceny indeksowania lub pozycji. Najpierw potrzebny adres i dostępne raporty; tekst usługi powinien wyjaśniać diagnozę oraz zapytanie o termin."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio przesyła tekst strony, który nie wyjaśnia sposobu uzgadniania zakresu. Brak danych o ruchu.",
+        "output": "Potwierdzona luka w dostarczonym tekście: brak opisu briefu. Propozycja: dodać proces ustalania zakresu; wpływ na ruch pozostaje hipotezą."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjna firma obsługuje biura, częstotliwość ustala indywidualnie. Dostarczono tylko szkic strony.",
+        "output": "Sprawdzić, czy szkic wyjaśnia ocenę potrzeb biura. Nie tworzyć stron dla miast ani częstotliwości bez potwierdzonych danych."
+      }
+    ]
+  },
+  {
+    "slug": "ai-seo",
+    "brief": "Zastosuj umiejętność ai-seo do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny warsztat opisuje diagnozę przed wyceną. Nie dostarczono wyników wyszukiwarek AI.",
+        "output": "Widoczność: niesprawdzona. Treść może jasno odpowiadać, jak zgłosić problem i kiedy właściciel potwierdza termin; brak podstaw do obietnicy cytowania."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio ma szkic FAQ o briefie. Brak datowanych odpowiedzi AI i potwierdzonych realizacji.",
+        "output": "Doprecyzować wymagane informacje do briefu. Nie dodawać studium przypadku ani twierdzenia o obecności w wynikach AI."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjna firma opisuje indywidualne ustalanie częstotliwości; nie ma danych o ruchu.",
+        "output": "Odpowiedzieć na pytanie o etap oceny potrzeb biura. Pomiar widoczności zaplanować osobno; częstotliwość i cena pozostają niewiadome."
+      }
+    ]
+  },
+  {
+    "slug": "programmatic-seo",
+    "brief": "Zastosuj umiejętność programmatic-seo do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny warsztat w Łodzi chce utworzyć 40 stron „naprawa roweru + miasto”, choć obsługuje tylko Łódź.",
+        "output": "Nie budować stron miast. Jedna strona opisująca rzeczywistą diagnozę w Łodzi jest uczciwsza i łatwiejsza do utrzymania."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio rozważa strony dla typów projektów; ma opisy procesu, ale brak odrębnych przykładów.",
+        "output": "Najpierw sprawdzić, czy typy projektów wymagają innych informacji i przykładów. Bez nich nie mnożyć stron z tym samym tekstem."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjna firma ma różne sposoby opieki nad roślinami biurowymi, ale niezatwierdzoną listę zakresów.",
+        "output": "Wstrzymać szablon do zatwierdzenia zakresów. Pokazać jedną stronę wzorcową z pustymi polami częstotliwości i ceny."
+      }
+    ]
+  },
+  {
+    "slug": "marketing-psychology",
+    "brief": "Zastosuj umiejętność marketing-psychology do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny warsztat wykonuje diagnozę przed wyceną; klienci pytają, czy wysłanie formularza rezerwuje wizytę.",
+        "output": "Niepewność dotyczy następnego kroku. Wyjaśnić, że formularz jest zapytaniem, a termin i koszt wymagają potwierdzenia; bez hasła „ostatnie miejsca”."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio ustala zakres przez brief; brak opinii klientów i danych o czasie realizacji.",
+        "output": "Pokazać etapy briefu i uzgodnienia zakresu. Nie dodawać opinii ani terminu realizacji bez źródła."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjna firma uzgadnia częstotliwość po ocenie biura; klienci pytają, czy plan można zmienić.",
+        "output": "Wyjaśnić etap oceny potrzeb. Zasady zmiany planu pozostawić jako pytanie do właściciela, bez obietnicy elastyczności."
+      }
+    ]
+  },
+  {
+    "slug": "ad-creative",
+    "brief": "Zastosuj umiejętność ad-creative do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny warsztat w Łodzi diagnozuje przed wyceną. Kanał reklamowy i budżet niepodane.",
+        "output": "Szkic kąta „wyjaśnij problem przed wizytą”; zapytanie nie jest rezerwacją. Przed dopasowaniem formatu potrzebny kanał i budżet."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio zbiera brief przed wyceną. Brak potwierdzonych realizacji i rabatu.",
+        "output": "Wariant pokazuje, co przygotować do briefu. Bez studium przypadku, obietnicy terminu lub promocji."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjna firma ustala zakres i częstotliwość po ocenie biura.",
+        "output": "Wariant zachęca do opisania biura; brief obrazu pokazuje rzeczywistą usługę, bez twierdzenia o gwarantowanym efekcie."
+      }
+    ]
+  },
+  {
+    "slug": "cold-email",
+    "brief": "Zastosuj umiejętność cold-email do mojego zadania. Przeczytaj SKILL.md i pliki pomocnicze odpowiednie dla zadania. Odpowiadaj po polsku.",
+    "examples": [
+      {
+        "model": "appointment",
+        "title": "Warsztat rowerowy",
+        "input": "Fikcyjny warsztat rozważa obsługę firmowych rowerów, lecz nie ma zatwierdzonej oferty B2B ani wskazanego odbiorcy.",
+        "output": "Wstrzymać wiadomość. Najpierw potwierdzić ofertę, zakres i powód kontaktu; nie wymyślać współpracy z flotami."
+      },
+      {
+        "model": "project",
+        "title": "Studio projektowe",
+        "input": "Fikcyjne studio ma zatwierdzoną ofertę stron dla firm, ale nie ma faktów o konkretnej firmie odbiorcy.",
+        "output": "Przygotować neutralny szkic bez zdania „widziałem problem na Państwa stronie”. Poprosić o potwierdzony powód indywidualnego kontaktu."
+      },
+      {
+        "model": "recurring",
+        "title": "Opieka nad roślinami",
+        "input": "Fikcyjna firma obsługuje biura; częstotliwość i cena ustalane są po ocenie potrzeb.",
+        "output": "Szkic pyta, czy odbiorca chce omówić potrzeby biura. Nie podaje ceny, planu wizyt ani wymyślonej znajomości firmy."
+      }
+    ]
+  }
+]
